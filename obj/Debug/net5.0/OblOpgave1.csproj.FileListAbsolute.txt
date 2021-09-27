@@ -1,0 +1,12 @@
+C:\Users\jonat\source\repos\OblOpgave1\OblOpgave1\bin\Debug\net5.0\OblOpgave1.deps.json
+C:\Users\jonat\source\repos\OblOpgave1\OblOpgave1\bin\Debug\net5.0\OblOpgave1.dll
+C:\Users\jonat\source\repos\OblOpgave1\OblOpgave1\bin\Debug\net5.0\ref\OblOpgave1.dll
+C:\Users\jonat\source\repos\OblOpgave1\OblOpgave1\bin\Debug\net5.0\OblOpgave1.pdb
+C:\Users\jonat\source\repos\OblOpgave1\OblOpgave1\obj\Debug\net5.0\OblOpgave1.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\OblOpgave1\OblOpgave1\obj\Debug\net5.0\OblOpgave1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\OblOpgave1\OblOpgave1\obj\Debug\net5.0\OblOpgave1.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\OblOpgave1\OblOpgave1\obj\Debug\net5.0\OblOpgave1.AssemblyInfo.cs
+C:\Users\jonat\source\repos\OblOpgave1\OblOpgave1\obj\Debug\net5.0\OblOpgave1.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\OblOpgave1\OblOpgave1\obj\Debug\net5.0\OblOpgave1.dll
+C:\Users\jonat\source\repos\OblOpgave1\OblOpgave1\obj\Debug\net5.0\ref\OblOpgave1.dll
+C:\Users\jonat\source\repos\OblOpgave1\OblOpgave1\obj\Debug\net5.0\OblOpgave1.pdb
